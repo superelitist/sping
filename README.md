@@ -1,5 +1,5 @@
 # sping
-Simultaneous ping, for when you need lots of ping.
+Simultaneous ping, for when you need lots of ping. Async, tested up to n == 100,000. Don't use for evil.
 
 ```
 >_ .\sping.exe
